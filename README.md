@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://storage.bosmudasky.com/wp-content/uploads/2025/07/image-1.png" alt="Tampilan DigitalDepot Panel" width="700"/>
 </p>
+
 **DigitalDepot Panel** adalah aplikasi desktop ringan berbasis Windows yang dirancang untuk memberikan akses langsung ke layanan **DigitalDepot.id**, tanpa perlu membuka browser. Aplikasi ini membantu pengguna dalam menjelajahi, membeli, dan menginstal produk digital secara efisien, termasuk integrasi langsung ke Steam Library.
 
 ---
